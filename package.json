@@ -1,0 +1,16 @@
+{
+  "name": "fb_phising",
+  "version": "1.0.0",
+  "description": "This is a phising script using node js",
+  "main": "app.js",
+  "scripts": {
+    "start":"node start app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FB_Phising"
+  },
+  "author": "Shah Jabir",
+  "license": "ISC"
+}
