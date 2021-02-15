@@ -2,7 +2,7 @@ var fs = require('fs');
 var http = require('http');
 var url = require('url');
 
-var PORT = process.env.PORT || 3000;
+var PORT = process.env.PORT || 8080;
 
 var isMobile = function(req) {
     console.log(req.headers);
